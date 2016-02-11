@@ -1,2 +1,6 @@
 # hello-world
 My first one
+
+Hii Coders...!!!
+This is my first GIT Experiance ....
+and its kinda cool ma boy.....
